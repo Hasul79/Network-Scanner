@@ -1,7 +1,7 @@
 # Network-Scanner
 
 <div>
-<imd src="https://github.com/Hasul79/Network-Scanner/assets/95657084/c78e1786-6800-4eb6-982a-ca348b59a4f3">
+<img src="https://github.com/Hasul79/Network-Scanner/assets/95657084/c78e1786-6800-4eb6-982a-ca348b59a4f3">
 </div>
 
 ![Screenshot 2024-03-01 152611](https://github.com/Hasul79/Network-Scanner/assets/95657084/c9de37ee-9a58-46b8-bf65-dc21af98cd73)
