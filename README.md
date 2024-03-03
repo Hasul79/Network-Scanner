@@ -18,6 +18,7 @@
  <br/>
 <li>Получение IP-адреса из аргументов командной строки:</li>
 <br/>
+
 ![Screenshot 2024-03-03 203745](https://github.com/Hasul79/Network-Scanner/assets/95657084/00402dca-15e1-4e9a-b7b0-c285f2cf6b52)
 
 <br/>
