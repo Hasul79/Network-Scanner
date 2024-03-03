@@ -1,4 +1,14 @@
 # Network-Scanner
+<br>
+
+```
+git clone https://github.com/Hasul79/Network-Scanner.git
+cd Network-Scanner
+python NetScan.py  <IP address>
+
+```
+
+
 
 <div>
 <img src="https://github.com/Hasul79/Network-Scanner/assets/95657084/c78e1786-6800-4eb6-982a-ca348b59a4f3">
