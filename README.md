@@ -1,4 +1,7 @@
-# Network-Scanner
+<h1 align="center">Network-Scanner</h1>
+
+
+
 <br>
 
 ```
@@ -11,7 +14,7 @@ python NetScan.py  <IP address>
 <br/>
 
 
-<div>
+<div align="center">
 <img src="https://github.com/Hasul79/Network-Scanner/assets/95657084/c78e1786-6800-4eb6-982a-ca348b59a4f3">
 </div>
 
