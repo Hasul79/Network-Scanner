@@ -94,4 +94,4 @@ python NetScan.py  <IP address>
 
 <br/>
 
-# Author: Hasmik Minasyan
+# Author: Hasmik Minasyan 03.03.2024
