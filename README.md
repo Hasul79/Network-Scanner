@@ -8,7 +8,7 @@
 <br>
 <ol>
 <li>Импорт библиотек:</li>
-
+<br/>
 
 ![Screenshot 2024-03-03 203535](https://github.com/Hasul79/Network-Scanner/assets/95657084/ad11ccc0-42fe-4fe0-8722-fccbd7da4d2e)
 
@@ -17,7 +17,7 @@
 <p>Здесь импортируются модули socket и sys, которые будут использоваться для работы с сокетами и обработки аргументов командной строки.</p>
  <br/>
 <li>Получение IP-адреса из аргументов командной строки:</li>
-
+<br/>
 ![Screenshot 2024-03-03 203745](https://github.com/Hasul79/Network-Scanner/assets/95657084/00402dca-15e1-4e9a-b7b0-c285f2cf6b52)
 
 <br/>
@@ -27,7 +27,7 @@
 <br/>
 
 <li>Словарь с общими баннерами:</li>
-
+<br/>
 
 ![Screenshot 2024-03-03 203928](https://github.com/Hasul79/Network-Scanner/assets/95657084/b5187d10-7d37-490c-8369-2c4cf32a5df2)
 
@@ -46,7 +46,9 @@
 <p>Функция устанавливает соединение с заданным портом на указанном IP-адресе и получает баннер службы. Если произошла ошибка сокета, возвращается пустой байтовый объект.</p>
 
 <br/>
+![Screenshot 2024-03-01 152525](https://github.com/Hasul79/Network-Scanner/assets/95657084/5dd77b22-dc09-432d-beab-4c3387197535)
 
+<br/>
 <li>Функция identify_service:</li>
 
 <br/>
@@ -79,5 +81,5 @@
 
 
 
-![Screenshot 2024-03-01 152525](https://github.com/Hasul79/Network-Scanner/assets/95657084/5dd77b22-dc09-432d-beab-4c3387197535)
+
 ![Screenshot 2024-03-01 152312](https://github.com/Hasul79/Network-Scanner/assets/95657084/65527c44-19ef-467f-abef-8162e5c1afd3)
